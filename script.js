@@ -42,5 +42,4 @@ async function getPhotots() {
 
 // On Load
 getPhotots()
-//iweguf
-bwedecberfur4g
+
